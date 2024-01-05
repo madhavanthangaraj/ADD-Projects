@@ -1,0 +1,38 @@
+body{
+    background-color:white;
+    text-emphasis-color: white;
+}
+label{
+    width: 100px;
+    display:inline-table;
+    /* align-content: center; 
+    background-color: rgb(166, 33, 33);*/
+   
+    
+}
+#hi{
+    background-color: rgb(222, 2, 2);
+}
+#container{
+    width: 100%;
+    position: relative;
+    left: 450px;
+}
+#fill{
+    position: relative;
+    left: 50px;
+}
+#t2{
+    position: relative;
+    left: -60px;
+}
+.ji{
+    position: relative;
+    left: 150px;
+    text-decoration:none;
+    color: red;
+}
+.ji :hover{
+    transition: 0.5s;
+    color: rgb(30, 39, 210);
+}
